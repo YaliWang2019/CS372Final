@@ -5,6 +5,5 @@ The conductor collects money from the customer, and the customer gets the movie 
 
 References:\
 Proxy in C++\
-https://refactoring.guru/design-patterns/proxy/cpp/example \
-
+https://refactoring.guru/design-patterns/proxy/cpp/example
 Dr. Hartman's example codes of MP3Player.
